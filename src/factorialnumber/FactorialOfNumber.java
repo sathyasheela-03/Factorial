@@ -15,7 +15,7 @@ public class FactorialOfNumber {
 		}
 		 
 		System.out.println("Factorial Number is: "  +fact);
-		
+		System.out.println("***********************");
 		
 	}  
 	public static void main(String[] args) {
